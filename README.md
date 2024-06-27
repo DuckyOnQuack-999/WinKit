@@ -41,4 +41,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-You can customize this template further with installation instructions, screenshots, or any additional details specific to WinKit.
