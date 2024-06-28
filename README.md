@@ -35,9 +35,6 @@ WinKit is a comprehensive toolkit designed to streamline system maintenance and 
 
 Contributions and feedback are welcome! Feel free to submit issues, feature requests, or pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
