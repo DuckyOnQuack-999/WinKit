@@ -6,7 +6,8 @@
   \ \ /\ / / | || '_ \ | ' / | || __| 
    \ V  V /  | || | | || . \ | || |_  
     \_/\_/   |_||_| |_||_|\_\|_| \__|  
-```                                      
+```
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/Your%20Ultimate%20Windows%2011%20Toolkit-blue?style=for-the-badge&logo=windows&logoColor=white" alt="WinKit" />
   <br><br>
