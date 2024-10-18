@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/WinKit-Your%20Ultimate%20Windows%2011%20Toolkit-blue?style=for-the-badge&logo=windows&logoColor=white" alt="WinKit" />
-</p>
+```
+ __        __ _         _  __ _  _    
+ \ \      / /(_) _ __  | |/ /(_)| |_  
+  \ \ /\ / / | || '_ \ | ' / | || __| 
+   \ V  V /  | || | | || . \ | || |_  
+    \_/\_/   |_||_| |_||_|\_\|_| \__| 
+```                                      
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Version 1.0" />
@@ -21,6 +25,8 @@
   <a href="#-roadmap">Roadmap</a> •
   <a href="#-license">License</a>
 </p>
+
+---
 
 ## 📊 Repository Stats
 
@@ -44,10 +50,13 @@
   <img src="https://img.shields.io/github/downloads/DuckyOnQuack-999/WinKit/total?style=for-the-badge&logo=github&color=brightgreen" alt="Total Downloads" />
 </p>
 
+---
 
 ## 📊 Language Breakdown
 
-<LanguageChart />
+[Your language chart or breakdown here]
+
+---
 
 ## 🚀 Key Features
 
@@ -123,6 +132,8 @@
 
 </details>
 
+---
+
 ## 🛠️ Installation
 
 <p align="center">
@@ -144,6 +155,8 @@
    ```powershell
    .\WinKit.ps1
    ```
+
+---
 
 ## 🖥️ Usage
 
@@ -180,6 +193,8 @@ WinKit now includes an auto-update feature:
 
 </details>
 
+---
+
 ## 🛠️ Contributing
 
 <p align="center">
@@ -207,6 +222,8 @@ Before submitting a pull request:
 3. Update documentation if you've added new features or changed existing functionality
 
 </details>
+
+---
 
 ## 🗺️ Roadmap
 
@@ -241,13 +258,19 @@ Top-voted features will be prioritized in our development roadmap!
 
 </details>
 
+---
+
 ## ⚠️ Disclaimer
 
 While we strive for safety and effectiveness, use WinKit at your own risk. Always back up your system before making significant changes. The authors and contributors are not responsible for any damage or data loss.
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
 
 ## ⭐ Show Your Support
 
@@ -277,17 +300,8 @@ Your contributions to the open-source community have been invaluable in the deve
 
 </details>
 
-
-
-
 ---
-#
-
 
 # <p align="center"> Made with ❤️ by DuckyOnQuack-999 </p>
 
-
 ---
-
-
-
