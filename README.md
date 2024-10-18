@@ -1,4 +1,6 @@
-# 🛠️ WinKit: Your Ultimate Windows 11 Toolkit
+<p align="center">
+  <img src="https://img.shields.io/badge/WinKit-Your%20Ultimate%20Windows%2011%20Toolkit-blue?style=for-the-badge&logo=windows&logoColor=white" alt="WinKit" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Version 1.0" />
@@ -8,7 +10,16 @@
 </p>
 
 <p align="center">
-  <strong>WinKit is your all-in-one solution for managing, optimizing, and customizing your Windows 11 experience.</strong>
+  <strong>🛠️ Supercharge your Windows 11 experience with WinKit - the all-in-one solution for managing, optimizing, and customizing your system! 🚀</strong>
+</p>
+
+<p align="center">
+  <a href="#-key-features">Key Features</a> •
+  <a href="#-installation">Installation</a> •
+  <a href="#-usage">Usage</a> •
+  <a href="#-contributing">Contributing</a> •
+  <a href="#-roadmap">Roadmap</a> •
+  <a href="#-license">License</a>
 </p>
 
 ## 📊 Repository Stats
@@ -32,6 +43,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/downloads/DuckyOnQuack-999/WinKit/total?style=for-the-badge&logo=github&color=brightgreen" alt="Total Downloads" />
 </p>
+
 
 ## 📊 Language Breakdown
 
