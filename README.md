@@ -11,7 +11,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Your%20Ultimate%20Windows%2011%20Toolkit-blue?style=for-the-badge&logo=windows&logoColor=white" alt="WinKit" />
   <br><br>
-  <img src="https://img.shields.io/badge/version-1.0-blue?style=for-the-badge" alt="Version 1.0" />
+  <img src="https://img.shields.io/badge/version-2.0.0--alpha.1-blue?style=for-the-badge" alt="Version 1.0" />
   <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows 11" />
   <img src="https://img.shields.io/github/license/DuckyOnQuack-999/WinKit?style=for-the-badge&logo=github&color=green" alt="GitHub license" />
   <img src="https://img.shields.io/badge/Maintenance-Active-green.svg?style=for-the-badge" alt="Maintenance Active" />
